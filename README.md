@@ -1,2 +1,2 @@
-# Dice-App
-Stateful Dice App using Flutter
+# MiCard App
+A single screen personal buisness  card app
